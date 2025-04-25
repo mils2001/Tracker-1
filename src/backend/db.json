@@ -1,0 +1,16 @@
+{
+  "expenses": [
+    {
+      "id": "1",
+      "description": "Groceries",
+      "category": "Food",
+      "amount": 51
+    },
+    {
+      "id": "2",
+      "description": "Uber Ride",
+      "category": "Transport",
+      "amount": 20
+    }
+  ]
+}
